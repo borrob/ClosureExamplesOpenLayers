@@ -1,1 +1,1 @@
-console.log("Hello, ROB");
+function hello(a){console.log("Hello, "+a)}hello("ROB");
