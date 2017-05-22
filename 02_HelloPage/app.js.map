@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"build/app.js",
+"lineCount":1,
+"mappings":"A,YASAA,QAASA,EAAQ,EAAG,CAHnBC,QAAAC,eAAA,CAAwB,QAAxB,CAAAC,UAAA,CALgBF,QAAAC,eAAA,CAAwB,gBAAxB,CAAAE,MAQG,CASpBC,MAAAC,OAAA,CAAgBC,QAAQ,EAAG,CAH1BN,QAAAC,eAAA,CAAwB,oBAAxB,CAAAM,iBAAA,CAA+D,OAA/D,CAAwER,CAAxE,CAG0B;",
+"sources":["src/hello.js"],
+"names":["doAction","document","getElementById","innerHTML","value","window","onload","window.onload","addEventListener"]
+}
