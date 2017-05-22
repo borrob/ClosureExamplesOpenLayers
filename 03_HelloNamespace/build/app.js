@@ -1,0 +1,1 @@
+(function(){var a=a||{},a=function(){function b(){document.getElementById("output").innerHTML=document.getElementById("helloNameInput").value}var c={a:function(){document.getElementById("laatMaarZienButton").addEventListener("click",b)}};return c};window.onload=function(){a().a()};})();//# sourceMappingURL=../app.js.map

@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"build/app.js",
+"lineCount":1,
+"mappings":"A,YACA,IAAAA,EAAcA,CAAdA,EAA6B,EAA7B,CAEAA,EAAcA,QAAQ,EAAG,CAaTC,QAAA,EAAQ,EAAG,CAHzBC,QAAAC,eAAA,CAAwB,QAAxB,CAAAC,UAAA,CALgBF,QAAAC,eAAA,CAAwB,gBAAxB,CAAAE,MAQS,CAX1B,IAAIC,EAAU,CAgBN,EAAOC,QAAQ,EAAG,CACzBL,QAAAC,eAAA,CAAwB,oBAAxB,CAAAK,iBAAA,CAA+D,OAA/D,CAAwEP,CAAxE,CADyB,CAhBZ,CAoBd,OAAOK,EAtBiB,CAyBzBG,OAAAC,OAAA,CAAgBC,QAAQ,EAAG,CACdX,CAAAY,EACZC,EAAA,EAF0B;",
+"sources":["src/hello.js"],
+"names":["App.Control","doAction","document","getElementById","innerHTML","value","control","control.init","addEventListener","window","onload","window.onload","myApp","init"]
+}
