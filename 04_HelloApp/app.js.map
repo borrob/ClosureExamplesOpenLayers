@@ -2,7 +2,7 @@
 "version":3,
 "file":"build/app.js",
 "lineCount":1,
-"mappings":"A,YAIcA,QAAA,EAAQ,EAAG,CAeTC,QAAA,EAAQ,EAAG,CAHzBC,QAAAC,eAAA,CCRiBC,QDQjB,CAAAC,UAAA,CALgBH,QAAAC,eAAA,CCJAG,gBDIA,CAAAC,MAQS,CAX1B,IAAIC,EAAU,CAgBN,EAAOC,QAAQ,EAAG,CACzBC,OAAAC,IAAA,CAAY,iBAAZ,CACAT,SAAAC,eAAA,CCpBiBS,oBDoBjB,CAAAC,iBAAA,CAAmD,OAAnD,CAA4DZ,CAA5D,CAFyB,CAhBZ,CAqBd,OAAOO,EAzBiB,C,CEAzBM,MAAAC,OAAA,CAAgBC,QAAQ,EAAG,CACdhB,CAAAiB,EACZC,EAAA,EAF0B;",
+"mappings":"A,YAeeA,QAAA,EAAQ,EAAG,CAHzBC,QAAAC,eAAA,CCRqBC,QDQrB,CAAAC,UAAA,CALgBH,QAAAC,eAAA,CCJIG,gBDIJ,CAAAC,MAQS,C,CEX1BC,MAAAC,OAAA,CAAgBC,QAAQ,EAAG,CFiB1BC,OAAAC,IAAA,CAAY,iBAAZ,CACAV,SAAAC,eAAA,CCpBqBU,oBDoBrB,CAAAC,iBAAA,CAAmD,OAAnD,CAA4Db,CAA5D,CElB0B;",
 "sources":["src/control.js","src/settings.js","src/hello.js"],
-"names":["App.Control","doAction","document","getElementById","output","innerHTML","input","outString","control","control.init","console","log","button","addEventListener","window","onload","window.onload","myApp","init"]
+"names":["doAction","document","getElementById","App.Settings.output","innerHTML","App.Settings.input","outString","window","onload","window.onload","console","log","App.Settings.button","addEventListener"]
 }

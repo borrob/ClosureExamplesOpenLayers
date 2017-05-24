@@ -1,12 +1,6 @@
 goog.provide('App.Settings');
 
-App.Settings = function() {
-	
-	var settings = {};
+App.Settings.button = 'laatMaarZienButton';
+App.Settings.input = 'helloNameInput';
+App.Settings.output = 'output';
 
-	settings.button = 'laatMaarZienButton';
-	settings.input = 'helloNameInput';
-	settings.output = 'output';
-
-	return settings;
-};
