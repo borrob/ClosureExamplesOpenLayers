@@ -7,6 +7,7 @@ java -jar ../compiler-latest/closure-compiler-v20170423.jar \
 	--entry_point=goog:App.Main \
 	--dependency_mode STRICT \
 	--define ol.ENABLE_WEBGL=false \
+	--define ol.DEBUG=false \
 	--js_output_file build/app.js \
 	--output_wrapper "(function(){%output%})();//# sourceMappingURL=../app.js.map" \
 	--assume_function_wrapper true \

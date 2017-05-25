@@ -7,4 +7,5 @@ java -jar ../compiler-latest/closure-compiler-v20170423.jar \
 	--entry_point=goog:App.Main \
 	--dependency_mode STRICT \
 	--define ol.ENABLE_WEBGL=false \
+	--define ol.DEBUG=false \
 	--js_output_file build/app.js
