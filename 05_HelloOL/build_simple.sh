@@ -5,7 +5,6 @@ java -jar ../compiler-latest/closure-compiler-v20170423.jar \
 	--js lib/v4.1.1/ol/**.js\
 	--js lib/v4.1.1/ol.ext/**.js\
 	--entry_point=goog:App.Main \
-	--dependency_mode STRICT \
+	--dependency_mode LOOSE \
 	--define ol.ENABLE_WEBGL=false \
-	--define ol.DEBUG=false \
 	--js_output_file build/app.js
