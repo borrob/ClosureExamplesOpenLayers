@@ -7,4 +7,5 @@ mkdir v4.1.1/externs
 pushd v4.1.1/externs
 wget "https://raw.githubusercontent.com/openlayers/openlayers/master/externs/oli.js"
 wget "https://raw.githubusercontent.com/openlayers/openlayers/master/externs/olx.js"
+wget "https://raw.githubusercontent.com/openlayers/openlayers/master/externs/proj4js.js"
 popd
