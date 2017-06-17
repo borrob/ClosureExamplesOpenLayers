@@ -36,3 +36,8 @@ Dit is een uitbreiding op het `build_advanced2.sh` en voegt een hele lap aan
 controles toe aan de build. Het is natuurlijk ook mogelijk om slechts een
 gedeelte van deze lijst te gebruiken. Let erop dat er nu een heleboel errors en
 waarschuwingen tevoorschrijn komen.
+
+## HTML
+
+De HTML-pagina is ook iets veranderd. In de header van de pagina is nu ook een
+verwijzing opgenomen naar de closure javascript library.

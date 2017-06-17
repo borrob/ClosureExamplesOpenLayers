@@ -30,6 +30,12 @@ nu een appart html-bestand voor de uncompiled versie een eentje als
 'productie-versie'. Let erop dat het script met alle checks en waarschuwingen
 nog steeds een flinke waslijst aan fouten rapporteert.
 
+## HTML
+
+De HTML-bestanden hebben nog steeds een verwijzing naar een externa js library
+voor het Closure gedeelte. Deze bestanden zijn ook opgenomen in de OpenLayer
+source. De scripttags zouden dus veranderd kunnen worden.
+
 ## Applicatie
 
 De applicatie is een uitbreiding op 04 HelloApp. Het bovenste gedeelte is nog
